@@ -1,0 +1,10 @@
+E:\C#\13A1ND\QLTeamleaders\QLTeamleaders\bin\Debug\QLTeamleaders.exe.config
+E:\C#\13A1ND\QLTeamleaders\QLTeamleaders\bin\Debug\QLTeamleaders.exe
+E:\C#\13A1ND\QLTeamleaders\QLTeamleaders\bin\Debug\QLTeamleaders.pdb
+E:\C#\13A1ND\QLTeamleaders\QLTeamleaders\obj\Debug\QLTeamleaders.csprojResolveAssemblyReference.cache
+E:\C#\13A1ND\QLTeamleaders\QLTeamleaders\obj\Debug\QLTeamleaders.Form1.resources
+E:\C#\13A1ND\QLTeamleaders\QLTeamleaders\obj\Debug\QLTeamleaders.Properties.Resources.resources
+E:\C#\13A1ND\QLTeamleaders\QLTeamleaders\obj\Debug\QLTeamleaders.csproj.GenerateResource.Cache
+E:\C#\13A1ND\QLTeamleaders\QLTeamleaders\obj\Debug\QLTeamleaders.exe
+E:\C#\13A1ND\QLTeamleaders\QLTeamleaders\obj\Debug\QLTeamleaders.pdb
+E:\C#\13A1ND\QLTeamleaders\QLTeamleaders\obj\Debug\QLTeamleaders.DangNhap.resources
